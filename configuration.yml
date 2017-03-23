@@ -1,0 +1,4 @@
+applications:
+  betting-api:
+    repo: git@github.com:spannerj/betting-api.git
+    branch: develop
